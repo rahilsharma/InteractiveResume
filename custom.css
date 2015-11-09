@@ -1,0 +1,16 @@
+@media print {
+	.hide-on-prints {
+		display: none;
+	}
+}
+
+.cursor-hand {
+	cursor: pointer;
+}
+
+.strike-throughs {
+	text-decoration: line-through;
+}
+.cstImg{
+	height:130px;width:130px;margin-top:16px; border-radius: 50%;
+}
